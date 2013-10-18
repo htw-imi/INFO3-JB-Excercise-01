@@ -5,3 +5,4 @@ Important Command Line Commands
 * `ls` list directory
 * `mkdir` create directory
 * `rm` remove
+* `pwd` print working directory
