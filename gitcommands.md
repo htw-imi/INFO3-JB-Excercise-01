@@ -7,3 +7,5 @@ Git Commands
 * `git clone` clones a repository
 * `git add`adds a new file to your git repository
 * `git merge` merges two individual branches together
+* `git push` pushes commited changes from the client to the server
+* `git pull` pulls current files from the server to the client
